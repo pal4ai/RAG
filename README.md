@@ -10,4 +10,4 @@ LLM RAG pipeline-Part2.ipynb - Enhances the above pipeline by adding citations t
 You can read detailed RAG and code explanation below in the 3 part articles: \
 Part1: https://medium.com/pal4ai/retriever-augmented-generation-rag-with-llms-1-ef20110340a9 \
 Part2: https://medium.com/pal4ai/retriever-augmented-generation-rag-with-llms-2-1b38ad95efd3 \
-Part3: https://medium.com/pal4ai/retriever-augmented-generation-rag-with-llms-3-9e803e68ae34 \
+Part3: https://medium.com/pal4ai/retriever-augmented-generation-rag-with-llms-3-9e803e68ae34 
